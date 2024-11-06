@@ -20,7 +20,7 @@ Installation
 
 -Clone the repository:
 
-git clone https://github.com/abubakarcd/simon-game.git
+git clone https://github.com/abubakarcd/simon.git
 
 -Navigate to the project directory: cd simon-game
 
