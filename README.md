@@ -9,27 +9,27 @@ The game keeps track of the player’s score.
 Increasing difficulty with each level.
 Responsive design for mobile and desktop devices.
 How to Play
->When the game starts, a sequence of colors will light up.
->You must repeat the pattern by clicking the colors in the same order.
->If you repeat the pattern correctly, the game adds another color to the sequence.
->If you make a mistake, the game will end, and your score will be displayed.
->Try to achieve the highest score possible by repeating longer sequences!
+When the game starts, a sequence of colors will light up.
+You must repeat the pattern by clicking the colors in the same order.
+If you repeat the pattern correctly, the game adds another color to the sequence.
+If you make a mistake, the game will end, and your score will be displayed.
+Try to achieve the highest score possible by repeating longer sequences!
 
 Installation
 To run the Simon Game locally, follow these steps:
 
->Clone the repository:
+Clone the repository:
 
 git clone https://github.com/abubakarcd/simon-game.git
 
->Navigate to the project directory: cd simon-game
+Navigate to the project directory: cd simon-game
 
->Open the index.html file in your browser:
+Open the index.html file in your browser:
 open index.html # On macOS
 
 Or just double-click the index.html file in your file explorer
 
 Technologies Used 
->HTML5: Structure of the game.
->> CSS3: Styling and layout.
->> JavaScript/JQuery: Game logic, sequence generation, and user interaction
+HTML5: Structure of the game.
+ CSS3: Styling and layout.
+  JavaScript/JQuery: Game logic, sequence generation, and user interaction
